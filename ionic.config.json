@@ -1,0 +1,7 @@
+{
+  "name": "DomiCuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
